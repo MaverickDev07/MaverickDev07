@@ -19,8 +19,7 @@
 
 Soy un profesional multidisciplinario con experiencia en **desarrollo fullstack**, **ciberseguridad**, **cloud computing**, **IoT** y **docencia tecnológica**. Mi enfoque combina la innovación, la eficiencia y la colaboración en entornos de alta exigencia tecnológica.
 
-Me especializo en la construcción de soluciones robustas y escalables, participando activamente en proyectos como el sistema de tickets y hardware del tren metropolitano de Cochabamba y plataformas de geolocalización satelital.
-
+Me especializo en la construcción de soluciones robustas y escalables, participando activamente en proyectos.
 ---
 
 ### 🛠️ Tecnologías y herramientas
