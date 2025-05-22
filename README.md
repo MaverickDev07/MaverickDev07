@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Full Stack Developer | 🛡️ Ethical Hacker | ☁️ Cloud Enthusiast (AWS, Azure) <br>
-📍 Bolivia | 💡 Innovador en soluciones tecnológicas
+💡 Innovador en soluciones tecnológicas
 </p>
 
 ---
