@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Maverick 👋</h1>
 
 <p align="center">
-🚀 Full Stack Developer | 🛡️ Ethical Hacker | ☁️ Cloud Enthusiast (AWS, Azure) <br>
+🚀 Full Stack Developer | 🛡️ Ethical Hacker | ☁️ Cloud Enthusiast (AWS, Azure, Google CLoude) <br>
 💡 Innovador en soluciones tecnológicas
 </p>
 
